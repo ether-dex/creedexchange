@@ -31,6 +31,11 @@
     { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "fullName": "Ethereum", "decimals": 18 }
   ],
   "tokens": [
+    { "addr": "0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f", "name": "RED", "fullName": "Red Community Token", "decimals": 18 },
+    { "addr": "0x75c5ee419331b6150879530d06f9ba054755f1da", "name": "SAL", "fullName": "SalPay", "decimals": 18 },
+    { "addr": "	0xf091cf09c51811819db705710e9634b8bf18f164", "name": "COU", "fullName": "Couchain", "decimals": 18 },
+    { "addr": "0x0f8c45b896784a1e408526b9300519ef8660209c", "name": "XMX", "fullName": "XMax", "decimals": 8 },
+    { "addr": "0x624d520bab2e4ad83935fa503fb130614374e850", "name": "SSP", "fullName": "SmartShare Token", "decimals": 4 },
     { "addr": "0x21d5678a62dfe63a47062469ebb2fac2817d8832", "name": "YLC", "fullName": "YoloCash", "decimals": 8 },
     { "addr": "0x1829aa045e21e0d59580024a951db48096e01782", "name": "FXT", "fullName": "FuzeX", "decimals": 18 },
     { "addr": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45", "name": "STX", "fullName": "Stox", "decimals": 18 },
