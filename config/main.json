@@ -31,6 +31,7 @@
     { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "fullName": "Ethereum", "decimals": 18 }
   ],
   "tokens": [
+    { "addr": "0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd", "name": "FREE", "fullName": "FREE Coin", "decimals": 18 },
     { "addr": "0x45eD02e374Aef2e4b34c04e86AD9D45891d10751", "name": "DFS", "fullName": "Digital Fantasy Sports", "decimals": 18 },
     { "addr": "0x3cd7047117dbfd0dcb470514172ace9f394c31e8", "name": "DEXT", "fullName": "DEX Token", "decimals": 8 },
     { "addr": "0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f", "name": "RED", "fullName": "Red Community Token", "decimals": 18 },
