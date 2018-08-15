@@ -32,7 +32,6 @@
   ],
   "tokens": [
     { "addr": "0xD2d95e0d8CEb1670D37878CEE784184b991d8509", "name": "RPCN1", "fullName": "ROPCOIN", "decimals": 1 },
-
   ],
   "defaultPair": { "token": "VERI", "base": "ETH" }
 }
