@@ -80,7 +80,7 @@
     { "addr": "0xc596bd09d652827b0106292d3e378d5938df4b12", "name": "TPT", "fullName": "Teleport", "decimals": 18 },
     { "addr": "0xd0929d411954c47438dc1d871dd6081f5c5e149c", "name": "RFR", "fullName": "Refereum", "decimals": 4 },
     { "addr": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a", "name": "PPT", "fullName": "Populous Platform", "decimals": 8 },
-    { "addr": "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5", "name": "KIN", "fullName": "KIN", "decimals": 88 },
+    { "addr": "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5", "name": "KIN", "fullName": "KIN", "decimals": 18 },
     { "addr": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07", "name": "OMG", "fullName": "OmiseGO", "decimals": 18 },
     { "addr": "0x57488fcc3dc72edb0a4c06a356c2c43c08bdfb42", "name": "CDEX", "fullName": "Creedex", "decimals": 18 }
 ],
