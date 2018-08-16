@@ -53,7 +53,7 @@
     { "addr": "0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5", "name": "VIU", "fullName": "VIU", "decimals": 18 },
     { "addr": "0x52a7cb918c11a16958be40cba7e31e32a499a465", "name": "FDX", "fullName": "fidentiaX", "decimals": 18 },
     { "addr": "0x539efe69bcdd21a83efd9122571a64cc25e0282b", "name": "BLUE", "fullName": "Ethereum Blue", "decimals": 8 },
-    { "addr": "0x559201fa75902cdc4055e40f0c90e3d702049987", "name": "BTCP", "fullName": "BITCOINPURE", "decimals": 18 },
+    { "addr": "0x57488Fcc3dC72Edb0a4c06a356c2c43C08BdfB42", "name": "CDEX", "fullName": "Creedex", "decimals": 18 },
     { "addr": "0x595832f8fc6bf59c85c527fec3740a1b7a361269", "name": "POWR", "fullName": "PowerLedger", "decimals": 6 },
     { "addr": "0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393", "name": "B2B", "fullName": "B2BX", "decimals": 18 },
     { "addr": "0x65292eeadf1426cd2df1c4793a3d7519f253913b", "name": "COSSOLD", "fullName": "COSS", "decimals": 18 },
