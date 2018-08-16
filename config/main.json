@@ -31,7 +31,14 @@
     { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "fullName": "Ethereum", "decimals": 18 }
   ],
   "tokens": [
-    { "addr": "0x57488Fcc3dC72Edb0a4c06a356c2c43C08BdfB42", "name": "CDEX", "fullName": "Creedex", "decimals": 18 }
+    { "addr": "0x57488Fcc3dC72Edb0a4c06a356c2c43C08BdfB42", "name": "CDEX", "fullName": "Creedex", "decimals": 18 },
+    { "addr": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52", "name": "BNB", "fullName": "Binance Coin", "decimals": 18 },
+    { "addr": "0xebbdf302c940c6bfd49c6b165f457fdb324649bc", "name": "HYDRO", "fullName": "Hydro", "decimals": 18 },
+    { "addr": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374", "name": "VERI", "fullName": "Veritaseum ", "decimals": 18 },
+    { "addr": "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5", "name": "KIN", "fullName": "TOKEN Kin ", "decimals": 18 },
+    { "addr": "0x168296bb09e24a88805cb9c33356536b980d3fc5", "name": "RHOC", "fullName": "TOKEN RHOC ", "decimals": 18 },
+    { "addr": "0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf", "name": "SXDT", "fullName": "Spectre.ai ", "decimals": 8 },
+    { "addr": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a", "name": "PPT", "fullName": "Populous ", "decimals": 18 }    
   ],
   "defaultPair": { "token": "CDEX", "base": "ETH" }
 }
