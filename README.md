@@ -9,7 +9,7 @@ Creedexchange currently acts as an open source, updated interface for EtherDelta
 
 
 # How does Creedexchange  Work?
-Creedexchange currently interfaces with EtherDelta's original smart contract (described in more detail [here](https://www.reddit.com/r/EtherDelta/comments/6kdiyl/smart_contract_overview/)) which allows TokenDEX users to trade utilizing EtherDelta's volume.
+Creedexchange currently interfaces with EtherDelta's original smart contract (described in more detail [here](https://www.reddit.com/r/EtherDelta/comments/6kdiyl/smart_contract_overview/)) which allows Creedexchange users to trade utilizing EtherDelta's volume.
 
 # Contribute
 We welcome contributions from the community. You can contribute by improving the code, documentation, or by donating. 
