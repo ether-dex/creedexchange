@@ -35,6 +35,7 @@
   ],
   "defaultPair": { "token": "1ST", "base": "ETH" },
   "pairs": [
+    { "token": "AMIS", "base": "ETH" },
     { "token": "1ST", "base": "ETH" }
   ]
 }
