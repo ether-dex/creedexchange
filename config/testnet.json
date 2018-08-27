@@ -3,6 +3,7 @@
   "contractToken": "smart_contract/token.sol",
   "contractReserveToken": "smart_contract/reservetoken.sol",
   "contractEtherDeltaAddrs": [
+    { "addr": "0xb5Ace61Ac9511DE68A7e1e385c96b3e33692fabe", "info": "Deployed 08/27/2018" },  
     { "addr": "0x228344536a03c0910fb8be9c2755c1a0ba6f89e1", "info": "Deployed 02/09/2017" },
     { "addr": "0xf80cd360e96fa96b8b7d9e95d5a7911ac5f09ec2", "info": "Deployed 10/24/2016" },
     { "addr": "0xcdd152384c55dd4e5b5a3128cc90e0d9311570de", "info": "Deployed 10/06/2016" },
@@ -29,6 +30,7 @@
   "etherscanAPIKey": "GCGR1C9I17TYIRNYUDDEIJH1K5BRPH4UDE",
   "tokens": [
     { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "decimals": 18 },
+    { "addr": "0x4875ae0e3fdfb9779d92b4c7bc5ce852434442b3", "name": "AMIS", "decimals": 18 },
     { "addr": "0x40aade55175aaeed9c88612c3ed2ff91d8943964", "name": "1ST", "decimals": 18 }
   ],
   "defaultPair": { "token": "1ST", "base": "ETH" },
