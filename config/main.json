@@ -78,7 +78,8 @@
     { "addr": "0xb5a5f22694352c15b00323844ad545abb2b11028", "name": "ICX", "fullName": "ICON", "decimals": 18 },
     { "addr": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31", "name": "0xBTC", "fullName": "0xBitcoin", "decimals": 8 },
     { "addr": "0xc596bd09d652827b0106292d3e378d5938df4b12", "name": "TPT", "fullName": "Teleport", "decimals": 18 },
-    { "addr": "0xd0929d411954c47438dc1d871dd6081f5c5e149c", "name": "RFR", "fullName": "Refereum", "decimals": 4 }
+    { "addr": "0xd0929d411954c47438dc1d871dd6081f5c5e149c", "name": "RFR", "fullName": "Refereum", "decimals": 4 },
+    { "addr": "0x949bed886c739f1a3273629b3320db0c5024c719", "name": "AMIS", "fullName": "Refereum", "decimals": 9 }
 ],
-  "defaultPair": { "token": "VERI", "base": "ETH" }
+  "defaultPair": { "token": "AMIS", "base": "ETH" }
 }
